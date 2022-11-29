@@ -31,3 +31,5 @@ print(8 % 3)
 
 print(8 ** 2.0)  # expected 64.0
 print(1 ** 4)  # expected 1
+
+# Exercise 4
